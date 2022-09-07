@@ -1,0 +1,15 @@
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\bin\Debug\net6.0\Ex_001.exe
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\bin\Debug\net6.0\Ex_001.deps.json
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\bin\Debug\net6.0\Ex_001.runtimeconfig.json
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\bin\Debug\net6.0\Ex_001.dll
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\bin\Debug\net6.0\Ex_001.pdb
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.csproj.AssemblyReference.cache
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.AssemblyInfoInputs.cache
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.AssemblyInfo.cs
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.csproj.CoreCompileInputs.cache
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.dll
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\refint\Ex_001.dll
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.pdb
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\Ex_001.genruntimeconfig.cache
+D:\Курс\C#\OldFolders\HomeWorks\Home11\Ex_001\obj\Debug\net6.0\ref\Ex_001.dll
